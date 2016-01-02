@@ -1,0 +1,130 @@
+<imatges>
+	<fotos1>
+
+		<tira1  id ='1' foto='images/seccion/foto1.jpg'></tira1>
+		<tira1  id ='2' foto='images/seccion/foto2.jpg'></tira1>
+		<tira1  id ='3' foto='images/seccion/foto3.jpg'></tira1>
+		<tira1  id ='4' foto='images/seccion/foto4.jpg'></tira1>
+
+	</fotos1>
+	<fotos2>
+		<tira2  id ='1' foto='images/seccion/topguay/foto1.jpg'></tira2>
+		<tira2  id ='2' foto='images/seccion/topguay/foto2.jpg'></tira2>
+		<tira2  id ='3' foto='images/seccion/topguay/foto3.jpg'></tira2>
+		<tira2  id ='4' foto='images/seccion/topguay/foto4.jpg'></tira2>
+	</fotos2>
+	<fotos3>
+		<tira3  id ='1' foto='images/seccion/projecte_social/foto1.jpg'></tira3>
+		<tira3  id ='2' foto='images/seccion/projecte_social/foto2.jpg'></tira3>
+		<tira3  id ='3' foto='images/seccion/projecte_social/foto3.jpg'></tira3>
+		<tira3  id ='4' foto='images/seccion/projecte_social/foto4.jpg'></tira3>
+	</fotos3>
+	<fotos4>
+		<tira4  id ='1' foto='images/seccion/contacte/foto1.jpg'></tira4>
+		<tira4  id ='2' foto='images/seccion/contacte/foto2.jpg'></tira4>
+		<tira4  id ='3' foto='images/seccion/contacte/foto3.jpg'></tira4>
+		<tira4  id ='4' foto='images/seccion/contacte/foto4.jpg'></tira4>
+	</fotos4>
+	<fotos5>
+		<tira5  id ='1' foto='images/seccion/peca/foto1.jpg'></tira5>
+		<tira5  id ='2' foto='images/seccion/peca/foto2.jpg'></tira5>
+		<tira5  id ='3' foto='images/seccion/peca/foto3.jpg'></tira5>
+		<tira5  id ='4' foto='images/seccion/peca/foto4.jpg'></tira5>
+	</fotos5>
+	<fotos6>
+		<tira6  id ='1' foto='images/seccion/catarsis/foto1.jpg'></tira6>
+		<tira6  id ='2' foto='images/seccion/catarsis/foto2.jpg'></tira6>
+		<tira6  id ='3' foto='images/seccion/catarsis/foto3.jpg'></tira6>
+		<tira6  id ='4' foto='images/seccion/catarsis/foto4.jpg'></tira6>
+	</fotos6>
+	<fotos7>
+		<tira7  id ='1' foto='images/seccion/marrameu/foto1.jpg'></tira7>
+		<tira7  id ='2' foto='images/seccion/marrameu/foto2.jpg'></tira7>
+		<tira7  id ='3' foto='images/seccion/marrameu/foto3.jpg'></tira7>
+		<tira7  id ='4' foto='images/seccion/marrameu/foto4.jpg'></tira7>
+	</fotos7>
+	<fotos8>
+		<tira8  id ='1' foto='images/seccion/avi_tio/foto1.jpg'></tira8>
+		<tira8  id ='2' foto='images/seccion/avi_tio/foto2.jpg'></tira8>
+		<tira8  id ='3' foto='images/seccion/avi_tio/foto3.jpg'></tira8>
+		<tira8  id ='4' foto='images/seccion/avi_tio/foto4.jpg'></tira8>
+	</fotos8>
+	<fotos9>
+		<tira9  id ='1' foto='images/seccion/sant_jordi/foto1.jpg'></tira9>
+		<tira9  id ='2' foto='images/seccion/sant_jordi/foto2.jpg'></tira9>
+		<tira9  id ='3' foto='images/seccion/sant_jordi/foto3.jpg'></tira9>
+		<tira9  id ='4' foto='images/seccion/sant_jordi/foto4.jpg'></tira9>
+	</fotos9>
+	<fotos10>
+		<tira10  id ='1' foto='images/seccion/gags_clown/foto1.jpg'></tira10>
+		<tira10  id ='2' foto='images/seccion/gags_clown/foto2.jpg'></tira10>
+		<tira10  id ='3' foto='images/seccion/gags_clown/foto3.jpg'></tira10>
+		<tira10  id ='4' foto='images/seccion/gags_clown/foto4.jpg'></tira10>
+	</fotos10>
+	<fotos11>
+		<tira11  id ='1' foto='images/seccion/cercaviles/foto1.jpg'></tira11>
+		<tira11  id ='2' foto='images/seccion/cercaviles/foto2.jpg'></tira11>
+		<tira11  id ='3' foto='images/seccion/cercaviles/foto3.jpg'></tira11>
+		<tira11  id ='4' foto='images/seccion/cercaviles/foto4.jpg'></tira11>
+	</fotos11>
+	<fotos12>
+		<tira12  id ='1' foto='images/seccion/accions_carta/foto1.jpg'></tira12>
+		<tira12  id ='2' foto='images/seccion/accions_carta/foto2.jpg'></tira12>
+		<tira12  id ='3' foto='images/seccion/accions_carta/foto3.jpg'></tira12>
+		<tira12  id ='4' foto='images/seccion/accions_carta/foto4.jpg'></tira12>
+	</fotos12>
+	<fotos13>
+		<tira13  id ='1' foto='images/seccion/speekcomic/foto1.jpg'></tira13>
+		<tira13  id ='2' foto='images/seccion/speekcomic/foto2.jpg'></tira13>
+		<tira13  id ='3' foto='images/seccion/speekcomic/foto3.jpg'></tira13>
+		<tira13  id ='4' foto='images/seccion/speekcomic/foto4.jpg'></tira13>
+	</fotos13>
+	<fotos14>
+		<tira14  id ='1' foto='images/seccion/diver_tallers/foto1.jpg'></tira14>
+		<tira14  id ='2' foto='images/seccion/diver_tallers/foto2.jpg'></tira14>
+		<tira14  id ='3' foto='images/seccion/diver_tallers/foto3.jpg'></tira14>
+		<tira14  id ='4' foto='images/seccion/diver_tallers/foto4.jpg'></tira14>
+	</fotos14>
+	<fotos15>
+		<tira15  id ='1' foto='images/seccion/taller_circ/foto1.jpg'></tira15>
+		<tira15  id ='2' foto='images/seccion/taller_circ/foto2.jpg'></tira15>
+		<tira15  id ='3' foto='images/seccion/taller_circ/foto3.jpg'></tira15>
+		<tira15  id ='4' foto='images/seccion/taller_circ/foto4.jpg'></tira15>
+	</fotos15>
+	<fotos16>
+		<tira16  id ='1' foto='images/seccion/taller_nadal/foto1.jpg'></tira16>
+		<tira16  id ='2' foto='images/seccion/taller_nadal/foto2.jpg'></tira16>
+		<tira16  id ='3' foto='images/seccion/taller_nadal/foto3.jpg'></tira16>
+		<tira16  id ='4' foto='images/seccion/taller_nadal/foto4.jpg'></tira16>
+	</fotos16>
+	<fotos17>
+		<tira17  id ='1' foto='images/seccion/taller_carnestoltes/foto1.jpg'></tira17>
+		<tira17  id ='2' foto='images/seccion/taller_carnestoltes/foto2.jpg'></tira17>
+		<tira17  id ='3' foto='images/seccion/taller_carnestoltes/foto3.jpg'></tira17>
+		<tira17  id ='4' foto='images/seccion/taller_carnestoltes/foto4.jpg'></tira17>
+	</fotos17>
+	<fotos18>
+		<tira18  id ='1' foto='images/seccion/taller_medieval/foto1.jpg'></tira18>
+		<tira18  id ='2' foto='images/seccion/taller_medieval/foto2.jpg'></tira18>
+		<tira18  id ='3' foto='images/seccion/taller_medieval/foto3.jpg'></tira18>
+		<tira18  id ='4' foto='images/seccion/taller_medieval/foto4.jpg'></tira18>
+	</fotos18>
+	<fotos19>
+		<tira19  id ='1' foto='images/seccion/festes_tematiques/foto1.jpg'></tira19>
+		<tira19  id ='2' foto='images/seccion/festes_tematiques/foto2.jpg'></tira19>
+		<tira19  id ='3' foto='images/seccion/festes_tematiques/foto3.jpg'></tira19>
+		<tira19  id ='4' foto='images/seccion/festes_tematiques/foto4.jpg'></tira19>
+	</fotos19>
+	<fotos20>
+		<tira20  id ='1' foto='images/seccion/puzzlequeria/foto1.jpg'></tira20>
+		<tira20  id ='2' foto='images/seccion/puzzlequeria/foto2.jpg'></tira20>
+		<tira20  id ='3' foto='images/seccion/puzzlequeria/foto3.jpg'></tira20>
+		<tira20  id ='4' foto='images/seccion/puzzlequeria/foto4.jpg'></tira20>
+	</fotos20>
+	<fotos21>
+		<tira21  id ='1' foto='images/seccion/namaskar/foto1.jpg'></tira21>
+		<tira21  id ='2' foto='images/seccion/namaskar/foto2.jpg'></tira21>
+		<tira21  id ='3' foto='images/seccion/namaskar/foto3.jpg'></tira21>
+		<tira21  id ='4' foto='images/seccion/namaskar/foto4.jpg'></tira21>
+	</fotos21>
+</imatges>
